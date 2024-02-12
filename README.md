@@ -45,7 +45,7 @@ Provide an overview of the architecture of your DeFi project. Describe the diffe
 If applicable, provide guidelines and instructions for contributing to the project. Include information on how to submit pull requests, report issues, or get involved in development.
 
 ## License
-This project is licensed under the Artificial Ledger Technology License. The license details can be found in the [LICENSE.md](LICENSE.md) file.
+This project is licensed under the Artificial Ledger Technology License. The license details can be found in the [LICENSE](LICENSE) file.
 
 ## Contact
 Provide contact information or links to reach out for support or inquiries related to the project.
