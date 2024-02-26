@@ -7,7 +7,7 @@ Decentralized Finance (DeFi) is a project that aims to provide financial service
 
 1. Clone the GitHub repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Artificial-Ledger-Technology/Decentralized-Finance-DEFIAI.git 
 ```
 
 2. Install dependencies:
@@ -84,8 +84,21 @@ Email: flexyledger@gmail.com, flexycode.dev@gmail.com
 You can email us at the provided email addresses for any project-related communication or assistance.
 
 # Credits
-Acknowledge and give credit to any individuals, libraries, or resources that have contributed to the project.
+We would like to express our gratitude and give credit to the following individuals, libraries, and resources that have contributed to the success of this project:
+
+* flexycode : Provided valuable insights and feedback during the development process.
+* flexyledger : Contributed code for the authentication module.
+* 0CottonBuds : Provided valuable insights and feedback for this open-source project
+* OpenZeppelin: The OpenZeppelin library provided us with a robust set of smart contract templates and security best practices, which greatly assisted in the development of our project.
+* Solidity Documentation: The Solidity documentation served as a valuable resource for understanding the Solidity programming language and its features. It provided us with the necessary guidance to write efficient and secure smart contracts.
+* Stack Overflow: A helpful resource for troubleshooting and finding solutions to various coding challenges.
+We sincerely appreciate the contributions and support from these individuals and resources. Without them, this project would not have been possible.
 
 # Appendix
-Include any additional information, code samples, or references that may be helpful but not necessary for the main documentation.
+In this section, you can include any additional information, code samples, or references that may be helpful for users but are not necessary for the main documentation. Here are some examples:
 
+Code Sample: A sample implementation of a specific feature or functionality that users can refer to.
+Glossary: Definitions of key terms or concepts used in the project.
+Troubleshooting Guide: Common issues and their solutions.
+API Reference: Detailed documentation of the project's APIs.
+External Resources: Links to relevant articles, tutorials, or documentation that users may find helpful.
