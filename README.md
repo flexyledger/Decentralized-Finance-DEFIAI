@@ -1,4 +1,10 @@
-# Decentralized Finance (DeFi) powered by AI-ML
+# 💫 Decentralized Finance (DeFi) powered by AI-ML
+
+<div style="display: flex; justify-content: space-between;">
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB5NDJka255N3h4aGl1M2c0MzVnc3dmNDd5cXczZGN0dGN5OG00cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DdpmhAQpQZzwHSrQ3f/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/7XPaG6ifhXK8Og4m6w/giphy.gif?cid=790b761110y42dkny7xxhiu3g435gswf47yqw3dcttcy8m4q&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/sMxhudBF8BeWeCeBZQ/giphy.gif?cid=ecf05e47dcmgjkxudnszjfxjg1s05vgxjmzvq5mprbdwt8j4&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/SaF7u0ujVP8Ke6eTlr/giphy.gif?cid=ecf05e473acc4cj8dze804embwwjr1lspqazakwcgy733v0j&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 # Overview
 Decentralized Finance (DeFi) is a project that aims to provide financial services using blockchain technology in a decentralized manner. This documentation provides an introduction to DeFi and explains the different components and features of the project.
