@@ -6,10 +6,10 @@
 <img width="200" height="200" src="https://media.giphy.com/media/sMxhudBF8BeWeCeBZQ/giphy.gif?cid=ecf05e47dcmgjkxudnszjfxjg1s05vgxjmzvq5mprbdwt8j4&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/SaF7u0ujVP8Ke6eTlr/giphy.gif?cid=ecf05e473acc4cj8dze804embwwjr1lspqazakwcgy733v0j&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
-# Overview
+# 💫 Overview
 Decentralized Finance (DeFi) is a project that aims to provide financial services using blockchain technology in a decentralized manner. This documentation provides an introduction to DeFi and explains the different components and features of the project.
 
-## Getting Started
+## 💫 Getting Started
 
 1. Clone the GitHub repository:
 ```bash
@@ -26,7 +26,7 @@ cd your-repo npm install
 npm start
 ```
 
-# Features
+# 💫 Features
 Explain the different features and functionalities of your DeFi project. Highlight the unique aspects and benefits it offers to users.
 
 # Smart Contracts
@@ -108,3 +108,5 @@ Glossary: Definitions of key terms or concepts used in the project.
 Troubleshooting Guide: Common issues and their solutions.
 API Reference: Detailed documentation of the project's APIs.
 External Resources: Links to relevant articles, tutorials, or documentation that users may find helpful.
+
+
